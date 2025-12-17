@@ -57,16 +57,11 @@ No data collection, no analytics, no internet required after initial theme downl
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td><img src="screenshots/screenshot_1.png" alt="Theme Browser"></td>
-    <td><img src="screenshots/screenshot_2.png" alt="Settings"></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/screenshot_3.png" alt="About"></td>
-    <td><img src="screenshots/screenshot_4.png" alt="Cursor Preview"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="screenshots/screenshot_1.png" alt="Theme Browser" width="32%">
+  <img src="screenshots/screenshot_2.png" alt="Settings" width="32%">
+  <img src="screenshots/screenshot_3.png" alt="About" width="32%">
+</p>
 
 ---
 
