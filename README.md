@@ -114,10 +114,9 @@ This approach works on macOS 15+ where traditional cursor modification methods n
 
 ## Legal
 
-- [Privacy Policy](https://7michalkozlik7.github.io/Macape/github/privacy.md)
-- [Terms of Service](https://7michalkozlik7.github.io/Macape/github/terms.md)
-- [EULA](https://7michalkozlik7.github.io/Macape/github/eula.md)
-
+- [Privacy Policy](https://github.com/7MichalKozlik7/Macape/blob/main/privacy.md)
+- [Terms of Service](https://github.com/7MichalKozlik7/Macape/blob/main/terms.md)
+- [EULA](https://github.com/7MichalKozlik7/Macape/blob/main/eula.md)
 ---
 
 <p align="center">
